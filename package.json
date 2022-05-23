@@ -1,0 +1,21 @@
+{
+  "name": "assign7",
+  "version": "1.0.0",
+  "description": "484 Assign 7",
+  "main": "artists.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kadin Pegram",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.2",
+    "nodemailer": "^6.7.3",
+    "request": "^2.88.2",
+    "stack": "^0.1.0"
+  }
+}
